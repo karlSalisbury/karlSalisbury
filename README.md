@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @karlSalisbury
-- 👀 I’m interested in travel, payments and fintech
+- 👀 I’m interested in travel, fintech and location technology
 - 🌱 I’m currently learning to design documentation sites
 
 <!---
